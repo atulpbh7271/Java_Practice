@@ -24,7 +24,7 @@ public class VowelOrConsonant {
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a charater");
+        System.out.print("Enter a charater");
         char ch = sc.next().charAt(0);
 
        VowelOrConsonant voc = new VowelOrConsonant();
