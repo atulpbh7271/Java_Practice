@@ -10,7 +10,7 @@ public class GenerateOTP {
             int digit= random.nextInt(10);
             otp += digit;
         }
-        
+
         System.out.println("your OTP is : "+otp);
     }
 }
