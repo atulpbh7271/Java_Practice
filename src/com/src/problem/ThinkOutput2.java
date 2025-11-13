@@ -14,5 +14,7 @@ public class ThinkOutput2 {
         float a=0.1f;
         float b=0.2f;
         System.out.println(a+b);
+        System.out.println(10+20+"java"+10+20);//30java1020
+
     }
 }
